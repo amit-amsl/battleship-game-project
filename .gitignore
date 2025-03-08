@@ -1,0 +1,5 @@
+node_modules
+gameScenarios.txt
+dist
+assets/sh.txt
+src/app/controller
